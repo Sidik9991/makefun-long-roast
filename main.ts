@@ -54,6 +54,21 @@ const CANDIDATES = [
     line: "The committee chair subpoenaed the algorithm on Monday and by Friday was still trying to double-click the PDF icon on a printed page.",
     scores: [2, 2, 1, 2, 2],
   },
+  {
+    title: "Final_v2_REAL",
+    line: "She regulates the cloud for a living and stores her only copy of the bill on a floppy disk labelled 'FINAL_v2_REAL.pdf.docx'.",
+    scores: [2, 1, 2, 2, 2],
+  },
+  {
+    title: "Stop Being a Word Document",
+    line: "He promised to drag the internet into the twenty-first century, right after someone showed him which button makes the Word document stop being a Word document.",
+    scores: [2, 1, 1, 1, 1],
+  },
+  {
+    title: "Google It Into Existence",
+    line: "The lawmaker who wants to license every AI model asked the clerk to 'just Google the PDF into existence' during a hearing on digital competence.",
+    scores: [2, 2, 1, 1, 1],
+  },
 ];
 
 function total(c) {
